@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Meeta Shah 
+- 👀 I’m interested in learning automation
+- 🌱 I’ve learned Selenium and currently learning UiPath
+- 💞️ I’m looking to collaborate with the automation community to learn more about latest upates
+- 📫 You can reach me at sha.mi69@yahoo.com
